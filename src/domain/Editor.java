@@ -2,7 +2,7 @@ package domain;
 
 /**
  * public class "editor" for description editor
- * @author User
+ * @author wnstnxsin
  */
 
 public class Editor extends Artist {
