@@ -1,7 +1,7 @@
 package domain;
 /**
  * empty class "technicalwriter"
- * @author User
+ * @author wnstnxsin
  */
 public class TechnicalWriter extends Artist {
 }
