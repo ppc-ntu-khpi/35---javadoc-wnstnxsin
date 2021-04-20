@@ -3,7 +3,7 @@ package domain;
 /**
  * public class "employee" for desc of employers
  * have 2 extensions: "artist" and "editor"
- * @author User
+ * @author wnstnxsin
  */
 
 public class Employee {
