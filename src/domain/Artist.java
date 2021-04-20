@@ -2,7 +2,7 @@ package domain;
 
 /**
  * public class "artist" for description of artist
- * @author User
+ * @author wnstnxsin
  */
 
 public class Artist extends Employee {
