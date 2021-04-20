@@ -1,7 +1,7 @@
 package domain;
 /**
  * public class "manager" for desc of manager
- * @author User
+ * @author wnstnxsin
  */
 public class Manager extends Employee {
     /**
